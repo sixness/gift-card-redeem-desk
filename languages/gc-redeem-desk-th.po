@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gift Card Redeem Desk 1.0.0\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%d transaction"
+msgid_plural "%d transactions"
+msgstr[0] "%d รายการ"
+
+msgid "A void cannot be voided."
+msgstr "ยกเลิกรายการที่เป็นการยกเลิกไม่ได้"
+
+msgid "Active"
+msgstr "ใช้งานได้"
+
+msgid "Add a note to the original gift card order for every transaction"
+msgstr "เพิ่มบันทึกใน order ที่ซื้อ gift card ทุกครั้งที่ทำรายการ"
+
+msgid "Added last on the desk page. Desk elements use classes starting with <code>.gcrd-</code>."
+msgstr "ใส่ไว้ท้ายสุดของหน้า Desk องค์ประกอบในหน้าใช้ class ที่ขึ้นต้นด้วย <code>.gcrd-</code>"
+
+msgid "All outlets"
+msgstr "ทุกจุดบริการ"
+
+msgid "All types"
+msgstr "ทุกประเภท"
+
+msgid "Allow redeeming and recharging expired cards"
+msgstr "อนุญาตให้ตัดยอดและเติมเงินบัตรที่หมดอายุแล้ว"
+
+msgid "Amount"
+msgstr "จำนวนเงิน"
+
+msgid "Amount is more than the balance (%s)."
+msgstr "จำนวนเงินมากกว่ายอดคงเหลือ (%s)"
+
+msgid "Amount is more than the balance."
+msgstr "จำนวนเงินมากกว่ายอดคงเหลือ"
+
+msgid "Any fixed-cart coupon"
+msgstr "คูปองส่วนลดแบบจำนวนเงินทุกใบ"
+
+msgid "Balance"
+msgstr "ยอดคงเหลือ"
+
+msgid "Balance after"
+msgstr "ยอดคงเหลือหลังทำรายการ"
+
+msgid "Body font stack"
+msgstr "ฟอนต์เนื้อหา"
+
+msgid "Brand (CI)"
+msgstr "แบรนด์ (CI)"
+
+msgid "Brand name"
+msgstr "ชื่อแบรนด์"
+
+msgid "Buttons, card panel and accents."
+msgstr "ใช้กับปุ่ม กรอบบัตร และจุดเน้นต่าง ๆ"
+
+msgid "Buyer"
+msgstr "ผู้ซื้อ"
+
+msgid "CSS font-family list, e.g. <code>\"Sarabun\", sans-serif</code>."
+msgstr "รายชื่อฟอนต์แบบ CSS เช่น <code>\"Sarabun\", sans-serif</code>"
+
+msgid "Camera access was blocked. Allow the camera for this site, or type the code."
+msgstr "กล้องถูกบล็อกอยู่ อนุญาตให้เว็บนี้ใช้กล้อง หรือพิมพ์รหัสบัตรแทน"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "Cannot void this recharge: part of it has already been spent."
+msgstr "ยกเลิกการเติมเงินนี้ไม่ได้ เพราะยอดที่เติมถูกใช้ไปบางส่วนแล้ว"
+
+msgid "Card"
+msgstr "บัตร"
+
+msgid "Card code"
+msgstr "รหัสบัตร"
+
+msgid "Card details"
+msgstr "ข้อมูลบัตร"
+
+msgid "Card history"
+msgstr "ประวัติบัตร"
+
+msgid "Choose image"
+msgstr "เลือกรูป"
+
+msgid "Choose outlet"
+msgstr "เลือกจุดบริการ"
+
+msgid "Choose the outlet where the card is used."
+msgstr "เลือกจุดบริการที่ใช้บัตร"
+
+msgid "Choose the outlet."
+msgstr "เลือกจุดบริการ"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "Confirm recharge"
+msgstr "ยืนยันเติมเงิน"
+
+msgid "Confirm redeem"
+msgstr "ยืนยันตัดยอด"
+
+msgid "Confirm void"
+msgstr "ยืนยันยกเลิกรายการ"
+
+msgid "Copy settings between projects"
+msgstr "คัดลอกการตั้งค่าไปโปรเจกต์อื่น"
+
+msgid "Corner radius"
+msgstr "ความโค้งมุม"
+
+msgid "Custom CSS"
+msgstr "CSS เพิ่มเติม"
+
+msgid "Data"
+msgstr "ข้อมูล"
+
+msgid "Date"
+msgstr "วันที่"
+
+msgid "Delete settings and the transaction log when the plugin is deleted"
+msgstr "ลบการตั้งค่าและประวัติรายการทั้งหมดเมื่อลบปลั๊กอิน"
+
+msgid "Desk"
+msgstr "Desk"
+
+msgid "Desk Settings"
+msgstr "ตั้งค่า Desk"
+
+msgid "Desk address"
+msgstr "ที่อยู่หน้า Desk"
+
+msgid "Desk address for staff:"
+msgstr "ลิงก์หน้า Desk สำหรับพนักงาน:"
+
+msgid "Desk title"
+msgstr "ชื่อหน้า Desk"
+
+msgid "Disabled"
+msgstr "ปิดใช้งาน"
+
+msgid "Done"
+msgstr "เรียบร้อย"
+
+msgid "Download settings (.json)"
+msgstr "ดาวน์โหลดการตั้งค่า (.json)"
+
+msgid "Enter a reason for the void."
+msgstr "กรอกเหตุผลที่ยกเลิก"
+
+msgid "Enter a reference (folio, bill or room number)."
+msgstr "กรอกเลขอ้างอิง (folio, เลขบิล หรือเลขห้อง)"
+
+msgid "Enter a reference."
+msgstr "กรอกเลขอ้างอิง"
+
+msgid "Enter an amount greater than zero."
+msgstr "กรอกจำนวนเงินที่มากกว่าศูนย์"
+
+msgid "Enter an amount."
+msgstr "กรอกจำนวนเงิน"
+
+msgid "Enter gift card code"
+msgstr "กรอกรหัส gift card"
+
+msgid "Expired"
+msgstr "หมดอายุ"
+
+msgid "Expired cards"
+msgstr "บัตรหมดอายุ"
+
+msgid "Expires"
+msgstr "หมดอายุ"
+
+msgid "Export CSV"
+msgstr "ส่งออก CSV"
+
+msgid "Filter"
+msgstr "กรอง"
+
+msgid "Font stylesheet URL"
+msgstr "ลิงก์ไฟล์ CSS ของฟอนต์"
+
+msgid "From"
+msgstr "จาก"
+
+msgid "Full balance"
+msgstr "ใช้ทั้งหมด"
+
+msgid "Gift Card Manager"
+msgstr "Gift Card Manager"
+
+msgid "Gift Card Redeem Desk"
+msgstr "Gift Card Redeem Desk"
+
+msgid "Gift Card Redeem Desk needs WooCommerce to be active."
+msgstr "Gift Card Redeem Desk ต้องใช้ WooCommerce กรุณาเปิดใช้งาน WooCommerce ก่อน"
+
+msgid "Gift Card Staff"
+msgstr "Gift Card Staff"
+
+msgid "Gift card %1$s %2$s %3$s at %4$s (ref: %5$s). Balance now %6$s. By %7$s via Redeem Desk."
+msgstr "Gift card %1$s %2$s %3$s ที่ %4$s (อ้างอิง: %5$s) ยอดคงเหลือ %6$s โดย %7$s ผ่าน Redeem Desk"
+
+msgid "Gift card code"
+msgstr "รหัส gift card"
+
+msgid "Gift card not found."
+msgstr "ไม่พบ gift card"
+
+msgid "Gift card not found. Check the code and try again."
+msgstr "ไม่พบ gift card ตรวจรหัสแล้วลองใหม่"
+
+msgid "Gift card plugins supported out of the box: WP Swings / MakeWebBetter Ultimate Gift Cards. Other plugins can use the <code>gcrd_is_gift_card</code> filter."
+msgstr "รองรับปลั๊กอิน WP Swings / MakeWebBetter Ultimate Gift Cards ทันที ปลั๊กอินอื่นใช้ filter <code>gcrd_is_gift_card</code> ได้"
+
+msgid "Gift card transaction"
+msgstr "รายการ gift card"
+
+msgid "Gift card transactions"
+msgstr "รายการ gift card"
+
+msgid "Give staff the <strong>Gift Card Staff</strong> role (redeem only) or <strong>Gift Card Manager</strong> role (also recharge, void and reports) in <a href=\"%s\">Users</a>."
+msgstr "กำหนดบทบาท <strong>Gift Card Staff</strong> (ตัดยอดได้อย่างเดียว) หรือ <strong>Gift Card Manager</strong> (เติมเงิน ยกเลิกรายการ และดูรายงานได้ด้วย) ให้พนักงานได้ที่หน้า <a href=\"%s\">Users</a>"
+
+msgid "Header background"
+msgstr "สีพื้นหลังหัวหน้า"
+
+msgid "Heading font stack"
+msgstr "ฟอนต์หัวข้อ"
+
+msgid "Import settings"
+msgstr "นำเข้าการตั้งค่า"
+
+msgid "Issued"
+msgstr "วันที่ออกบัตร"
+
+msgid "Keep it dark on a light background so every phone can read it."
+msgstr "ใช้สีเข้มบนพื้นสีอ่อน มือถือทุกรุ่นจะได้สแกนได้"
+
+msgid "Leave empty for none."
+msgstr "เว้นว่างถ้าไม่ต้องการ"
+
+msgid "Log in as someone else"
+msgstr "เข้าสู่ระบบด้วยบัญชีอื่น"
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+msgid "Logo"
+msgstr "โลโก้"
+
+msgid "Logo height"
+msgstr "ความสูงโลโก้"
+
+msgid "Look up"
+msgstr "ค้นหา"
+
+msgid "Message"
+msgstr "ข้อความ"
+
+msgid "New balance"
+msgstr "ยอดคงเหลือใหม่"
+
+msgid "Next card"
+msgstr "บัตรถัดไป"
+
+msgid "No access"
+msgstr "ไม่มีสิทธิ์เข้าใช้"
+
+msgid "No desk transactions for this card yet."
+msgstr "ยังไม่มีรายการของบัตรนี้ที่ Desk"
+
+msgid "No expiry"
+msgstr "ไม่มีวันหมดอายุ"
+
+msgid "No transactions found."
+msgstr "ไม่พบรายการ"
+
+msgid "No transactions today."
+msgstr "วันนี้ยังไม่มีรายการ"
+
+msgid "Not allowed."
+msgstr "ไม่มีสิทธิ์"
+
+msgid "Note"
+msgstr "หมายเหตุ"
+
+msgid "Note (optional)"
+msgstr "หมายเหตุ (ไม่บังคับ)"
+
+msgid "One per line. Staff must choose one for each transaction; the desk remembers the last choice on each device."
+msgstr "บรรทัดละหนึ่งจุด พนักงานต้องเลือกจุดบริการทุกครั้งที่ทำรายการ และเครื่องแต่ละเครื่องจะจำจุดที่เลือกล่าสุดไว้"
+
+msgid "Only coupons created by a gift card plugin"
+msgstr "เฉพาะคูปองที่ปลั๊กอิน gift card สร้าง"
+
+msgid "Open desk"
+msgstr "เปิดหน้า Desk"
+
+msgid "Optional. A CSS file that loads the brand fonts, e.g. a Google Fonts link, or a stylesheet on this site with @font-face rules."
+msgstr "ไม่บังคับ ใส่ลิงก์ไฟล์ CSS ที่โหลดฟอนต์ของแบรนด์ เช่นลิงก์ Google Fonts หรือไฟล์ CSS บนเว็บนี้ที่มี @font-face"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "Order notes"
+msgstr "บันทึกใน order"
+
+msgid "Original value"
+msgstr "มูลค่าตั้งต้น"
+
+msgid "Outlet"
+msgstr "จุดบริการ"
+
+msgid "Outlets"
+msgstr "จุดบริการ"
+
+msgid "Page background"
+msgstr "สีพื้นหลังหน้า"
+
+msgid "Panel background"
+msgstr "สีพื้นหลังกล่อง"
+
+msgid "Paste a settings file to import:"
+msgstr "วางเนื้อหาไฟล์การตั้งค่าที่ต้องการนำเข้า:"
+
+msgid "Point the camera at the QR code on the gift card."
+msgstr "หันกล้องไปที่ QR code บน gift card"
+
+msgid "Primary colour"
+msgstr "สีหลัก"
+
+msgid "Print slip"
+msgstr "พิมพ์สลิป"
+
+msgid "Put <code>[REDEEM_QR]</code> in the gift card email template where the QR should appear. The QR opens this desk with the card filled in."
+msgstr "ใส่ <code>[REDEEM_QR]</code> ในเทมเพลตอีเมล gift card ตรงที่ต้องการให้ QR แสดง สแกน QR แล้วจะเปิดหน้า Desk พร้อมใส่รหัสบัตรให้"
+
+msgid "QR background"
+msgstr "สีพื้นหลัง QR"
+
+msgid "QR code"
+msgstr "QR code"
+
+msgid "QR code in gift card emails"
+msgstr "QR code ในอีเมล gift card"
+
+msgid "QR colour"
+msgstr "สี QR"
+
+msgid "QR size"
+msgstr "ขนาด QR"
+
+msgid "Reason for void"
+msgstr "เหตุผลที่ยกเลิก"
+
+msgid "Recharge"
+msgstr "เติมเงิน"
+
+msgid "Recipient"
+msgstr "ผู้รับ"
+
+msgid "Redeem"
+msgstr "ตัดยอด"
+
+msgid "Redeem Desk"
+msgstr "Redeem Desk"
+
+msgid "Redeem Desk settings"
+msgstr "ตั้งค่า Redeem Desk"
+
+msgid "Redeemed today"
+msgstr "ตัดยอดวันนี้"
+
+msgid "Ref"
+msgstr "อ้างอิง"
+
+msgid "Reference"
+msgstr "เลขอ้างอิง"
+
+msgid "Reference (folio / bill / room no.)"
+msgstr "เลขอ้างอิง (folio / เลขบิล / เลขห้อง)"
+
+msgid "Reference field label"
+msgstr "ชื่อช่องเลขอ้างอิง"
+
+msgid "Replace [REDEEM_QR] with the card QR code"
+msgstr "แทนที่ [REDEEM_QR] ด้วย QR code ของบัตร"
+
+msgid "Reports"
+msgstr "รายงาน"
+
+msgid "Required for every redeem and recharge"
+msgstr "บังคับกรอกทุกครั้งที่ตัดยอดหรือเติมเงิน"
+
+msgid "Reset all desk settings to defaults?"
+msgstr "คืนค่าการตั้งค่า Desk ทั้งหมดเป็นค่าเริ่มต้น?"
+
+msgid "Reset to defaults"
+msgstr "คืนค่าเริ่มต้น"
+
+msgid "Scan QR"
+msgstr "สแกน QR"
+
+msgid "Scan at redemption counter"
+msgstr "สแกนที่จุดรับบัตร"
+
+msgid "Secondary text colour"
+msgstr "สีตัวอักษรรอง"
+
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+msgid "Settings imported."
+msgstr "นำเข้าการตั้งค่าแล้ว"
+
+msgid "Settings reset to defaults."
+msgstr "คืนค่าเริ่มต้นแล้ว"
+
+msgid "Settings saved."
+msgstr "บันทึกการตั้งค่าแล้ว"
+
+msgid "Show recipient, sender, buyer and message to staff (helps check ID)"
+msgstr "แสดงชื่อผู้รับ ผู้ส่ง ผู้ซื้อ และข้อความให้พนักงานเห็น (ช่วยตรวจบัตรประชาชน)"
+
+msgid "Shown in the desk header and on printed slips. Use a logo that reads well on the header colour."
+msgstr "แสดงที่หัวหน้า Desk และบนสลิปที่พิมพ์ ควรใช้โลโก้ที่เห็นชัดบนสีพื้นหลังของหัวหน้า"
+
+msgid "Something went wrong. Please try again."
+msgstr "เกิดข้อผิดพลาด กรุณาลองใหม่"
+
+msgid "Staff"
+msgstr "พนักงาน"
+
+msgid "Text colour"
+msgstr "สีตัวอักษร"
+
+msgid "Text on primary"
+msgstr "สีตัวอักษรบนสีหลัก"
+
+msgid "Text under QR"
+msgstr "ข้อความใต้ QR"
+
+msgid "That is not a valid settings file."
+msgstr "ไฟล์การตั้งค่าไม่ถูกต้อง"
+
+msgid "The page lives at %s"
+msgstr "หน้านี้อยู่ที่ %s"
+
+msgid "This browser cannot scan in the page. Open your phone camera and scan the QR code instead, it will open this desk with the card filled in."
+msgstr "เบราว์เซอร์นี้สแกนในหน้าเว็บไม่ได้ ให้เปิดกล้องมือถือสแกน QR code แทน ระบบจะเปิดหน้า Desk พร้อมใส่รหัสบัตรให้"
+
+msgid "This card is being updated at another counter. Try again in a moment."
+msgstr "บัตรนี้กำลังทำรายการที่จุดอื่นอยู่ รอสักครู่แล้วลองใหม่"
+
+msgid "This gift card has expired."
+msgstr "gift card นี้หมดอายุแล้ว"
+
+msgid "This gift card is disabled."
+msgstr "gift card นี้ถูกปิดใช้งาน"
+
+msgid "This transaction was already voided."
+msgstr "รายการนี้ถูกยกเลิกไปแล้ว"
+
+msgid "To"
+msgstr "ถึง"
+
+msgid "Today"
+msgstr "วันนี้"
+
+msgid "Too many lookups. Wait a few minutes and try again."
+msgstr "ค้นหาบ่อยเกินไป รอสักครู่แล้วลองใหม่"
+
+msgid "Transaction not found."
+msgstr "ไม่พบรายการ"
+
+msgid "Transactions"
+msgstr "รายการ"
+
+msgid "Type"
+msgstr "ประเภท"
+
+msgid "Uninstall"
+msgstr "ถอนการติดตั้ง"
+
+msgid "Used up"
+msgstr "ใช้หมดแล้ว"
+
+msgid "Void"
+msgstr "ยกเลิกรายการ"
+
+msgid "Voided"
+msgstr "ยกเลิกแล้ว"
+
+msgid "Which coupons are gift cards"
+msgstr "คูปองแบบไหนนับเป็น gift card"
+
+msgid "Your account cannot use the redeem desk. Ask an administrator to give you the Gift Card Staff or Gift Card Manager role."
+msgstr "บัญชีนี้ใช้หน้า Redeem Desk ไม่ได้ ติดต่อผู้ดูแลระบบให้กำหนดบทบาท Gift Card Staff หรือ Gift Card Manager"
+
+msgid "Your session expired. The page will reload."
+msgstr "หมดเวลาการใช้งาน ระบบจะโหลดหน้าใหม่"
+
+msgid "recharged"
+msgstr "เติมเงิน"
+
+msgid "redeemed"
+msgstr "ตัดยอด"
+
+msgid "void (reversed)"
+msgstr "ยกเลิกรายการ (คืนยอด)"
+
+msgid "voided"
+msgstr "ยกเลิกแล้ว"
+
